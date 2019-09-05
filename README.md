@@ -1,4 +1,4 @@
-# gdaps1-presonal-repo
+# gdaps1-personal-repo
 This is a template project for students to use in GDAPS 105 for their class work.
 
 # Getting Started
