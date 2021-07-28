@@ -1,3 +1,3 @@
 # Demos folder
-Use the folder to keep track of demo code that you create during class (or download from your instructor).
+Use this folder to keep track of demo code that you create during class (or download from your instructor).
 
