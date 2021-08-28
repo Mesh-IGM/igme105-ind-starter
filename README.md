@@ -4,10 +4,10 @@ This is a template project for students to use in GDAPS 105 to track demo and pr
 # Getting Started
 
 Get your favorite Git client:
+* [Visual Studio](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Visual-Studio)'s plugin *(This is what we'll be showing you in class!)*
 * [GitBash](https://gitforwindows.org/)
 * [SourceTree](https://www.sourcetreeapp.com/)
 * [GitHub Desktop](https://desktop.github.com/)
-* Or just use [Visual Studio](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Visual-Studio)'s plugin
 
 ### Why are we using Git?
 
